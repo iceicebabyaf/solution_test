@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+sol_venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Browser session data (contains cookies, cache)
+.browser_session/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
