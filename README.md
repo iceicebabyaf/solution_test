@@ -32,7 +32,7 @@ AI-агент для автоматизации браузера на базе C
 
 ## Установка
 
-См. [quickstart.md](quickstart.md)
+См. [QUICKSTART.md](QUICKSTART.md)
 
 ## Использование
 
